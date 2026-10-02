@@ -1,12 +1,28 @@
-## Welcome to Adamjee Cantonment College Robotics Club
+# 🤖 Adamjee Cantonment College Robotics Club
 
-<!--
+### Building • Competing • Innovating
 
-**Here are some ideas to get you started:**
+**Adamjee Cantonment College Robotics Club (ACCRC)** is a student-led robotics and engineering community at **Adamjee Cantonment College, Dhaka, Bangladesh 🇧🇩**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+We build, experiment, and compete across:
+
+* 🤖 Robotics & Autonomous Systems
+* ⚡ Embedded Systems & Electronics
+* 🧠 AI & Computer Vision
+* 🚁 Drones & Aerial Robotics
+* 💻 Software & Control Systems
+* 🏎️ Formula Student & R&D
+
+### 🛠️ What We Do
+
+We learn through **hands-on projects, competitions, workshops, and research** — turning ideas into working prototypes while helping the next generation of student engineers grow.
+
+Our GitHub contains **open-source projects, firmware, software, documentation, and experiments** developed by ACCRC members.
+
+> **Learn. Build. Compete. Lead.**
+
+📍 **Adamjee Cantonment College, Dhaka, Bangladesh**
+
+<p align="center">
+  <b>🤖 Engineering the future, one prototype at a time.</b>
+</p>
